@@ -6,7 +6,7 @@ Email: nattapat.kaewthong@gmail.com
 
 🖼️ 2. Picture
 
-![Quote Picture](Picture\Quote.jpg)
+![Quote Picture](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
