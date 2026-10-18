@@ -24,12 +24,12 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Nattapat Kaewthong
+Email: nattapat.kaewthong@gmail.com
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote Picture](Picture/Quote.png)
 
 🎞️ 3. Animation
 
