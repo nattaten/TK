@@ -4,6 +4,10 @@ Name: Nattapat Kaewthong
 
 Email: nattapat.kaewthong@gmail.com
 
+Name: Korn Srivarakul
+
+Email: korn2235@gmail.com
+
 🖼️ 2. Picture
 
 ![Quote Picture](Picture/Quote.jpg)
